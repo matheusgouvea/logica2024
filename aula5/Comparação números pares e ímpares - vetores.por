@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> bf2212def211a7bb23457f4af3adb8a6981623c5
 		inteiro numeros[8], soma=0, par=0, impar=0
 		
 		para(inteiro i=0; i < 8; i++){
@@ -27,8 +35,13 @@ programa
 		escreva("\nQuant. de Pares:", par)
 		escreva("\nQuant. de Pares:", impar)
 		
+<<<<<<< HEAD
 	}
 }
+=======
+	}
+}
+>>>>>>> bf2212def211a7bb23457f4af3adb8a6981623c5
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.

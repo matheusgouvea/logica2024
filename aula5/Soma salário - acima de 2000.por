@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 programa
 {
 	
 	funcao inicio()
 	{
+=======
+programa
+{
+	
+	funcao inicio()
+	{
+>>>>>>> bf2212def211a7bb23457f4af3adb8a6981623c5
 		real salarios[3]
 		
 		para(inteiro i=0; i < 3; i++)
@@ -21,9 +29,15 @@ programa
 		{
 			escreva("Salário:", salarios[i], "\n")
 			
+<<<<<<< HEAD
 		}
 	}
 }
+=======
+		}
+	}
+}
+>>>>>>> bf2212def211a7bb23457f4af3adb8a6981623c5
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
